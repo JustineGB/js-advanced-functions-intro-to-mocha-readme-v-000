@@ -10,4 +10,6 @@ function sayHey() {
   return "Hey!";
 }
 
-function sayHeyFriend(name)
+function sayHeyFriend(name) {
+  return (`)
+}
