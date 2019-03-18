@@ -15,8 +15,7 @@ function sayHeyFriend(name) {
 }
 
 function shouting(string) {
-  string.toUpperCase
-  
+  string.toUpperCase();
 }
 
 function roundDown(number) {
