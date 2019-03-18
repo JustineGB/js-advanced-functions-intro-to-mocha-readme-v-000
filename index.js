@@ -14,7 +14,9 @@ function sayHeyFriend(name) {
   return (`Hey, ${name}!`);
 }
 
-function shouting() {
+function shouting(string) {
+  
+  
 }
 
 function roundDown(number) {
