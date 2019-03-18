@@ -1,3 +1,3 @@
 function favoriteIceCream(flavor) {
-  return 
+  return (`I love ${flavor}`);
 }
