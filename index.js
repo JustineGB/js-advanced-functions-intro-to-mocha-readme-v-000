@@ -3,7 +3,7 @@ function favoriteIceCream(flavor) {
 }
 
 function theTruth() {
-  return "true"; 
+  return true; 
 }
 
 function sayHey() {
